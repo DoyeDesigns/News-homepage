@@ -19,8 +19,8 @@ Live link - https://news-homepage-inky-eight.vercel.app/
 
 ## Desktop view
 
-![Desktop view](/assets/images/desktop-view-news-homepage-inky-eight-vercel-app-2023-02-18-13_20_46.png)
+![Desktop view](/assets/images/mobile-view-news-homepage-inky-eight-vercel-app-2023-02-18-13_33_01.png)
 
 ## Mobile view
 
-![Mobile view](/assets/images/mobile-view-news-homepage-inky-eight-vercel-app-2023-02-18-13_33_01.png)
+![Mobile view](/assets/images/desktop-view-news-homepage-inky-eight-vercel-app-2023-02-18-13_20_46.png)
