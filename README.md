@@ -1,9 +1,9 @@
-# Password generator
+# News Homepage
 This is an application built using html css grid and javascript concepts such as functions. 
 
 It is a highly responsive website for a proposed news agency
 
-## App features
+## Website features
 
 - Css grid 
 
@@ -14,13 +14,13 @@ It is a highly responsive website for a proposed news agency
 - Javascript
 
 ## Links
-Live link - https://password-generator-three-tau.vercel.app/
+Live link - https://news-homepage-inky-eight.vercel.app/
 
 
 ## Desktop view
 
-![Desktop view](/assets/screencapture-password-generator-three-tau-vercel-app-2023-02-08-17_21_02.png)
+![Desktop view](/assets/images/desktop-view-news-homepage-inky-eight-vercel-app-2023-02-18-13_20_46.png)
 
 ## Mobile view
 
-![Mobile view](/assets/screencapture-password-generator-three-tau-vercel-app-2023-02-08-17_21_02.png)
+![Mobile view](/assets/images/mobile-view-news-homepage-inky-eight-vercel-app-2023-02-18-13_33_01.png)
