@@ -45,6 +45,8 @@ header {
   text-decoration: none;
   font-size: 0.9375rem;
   padding-left: 2.5rem;
+  color: var(--dark-greyish-blue);
+
 }
 
 /* for ther hover effect of the links */

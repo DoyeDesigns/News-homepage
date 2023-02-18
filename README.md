@@ -1,7 +1,7 @@
 # Password generator
 This is an application built using html css grid and javascript concepts such as functions. 
 
-It is a highly responsive website for a prposed news agency
+It is a highly responsive website for a proposed news agency
 
 ## App features
 
